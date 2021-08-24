@@ -1,5 +1,11 @@
 ## Dental with Next-js, Prismic, and Tailwind
 
+Clone project
+
+```
+git clone https://github.com/krittiyaclark/dental-next-js-tailwind.git
+```
+
 First, run the development server:
 
 ```bash
